@@ -1,0 +1,4 @@
+{
+  runningcontainers:["§§INSTANCE-dbninja"],
+  supportcontainers:["§§INSTANCE-dbninja-data"]    
+}

@@ -1,0 +1,10 @@
+{
+		"name": "Adminer",
+		"short_name": "Adminer",
+		"version": "v4.2.4",
+		"description": "Database management in a single file",
+        "short_description": "Database management in a single file",
+		"catalogue_url": "",
+		"application_url": "https://www.adminer.org/en/",
+		"tags": ["Database", "Administration"]
+}
