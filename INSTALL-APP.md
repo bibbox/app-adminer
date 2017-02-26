@@ -1,9 +1,5 @@
-## adminer Installation Instructions 
+## Adminer Installation Instructions 
 
-##
-
-## After the installation
-
-Have a nice ride with the new Admins youngtimer.
+Adminer is "super easy", nothing to do after the installation. You can immediately go for a ride with the  new Admins youngtimer.
 
 ![FINAL](install-screen-final.jpg)
