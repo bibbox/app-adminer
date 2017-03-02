@@ -8,6 +8,7 @@ services:
   §§INSTANCE-adminer:
     image: bibbox/adminer
     container_name:  §§INSTANCE-adminer
+    restart: unless-stopped
     networks:
       - bibbox-default-network
     ports:
